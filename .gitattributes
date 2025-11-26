@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *.safetensors filter=lfs diff=lfs merge=lfs -text
+=======
+sentiment_model/* filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 84e7f959ad7c18a5879f37c98a6da6401bc84be8
