@@ -1,0 +1,13 @@
+# Ignore model files
+*.h5
+*.pt
+models/
+# تجاهل مجلدات logs
+logs/
+
+# تجاهل ملفات الموديل
+model/
+
+
+*.pyc
+__pycache__/
