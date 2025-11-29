@@ -26,8 +26,10 @@ paths:
 alert_threshold: 15
 
 email_settings:
-  email: sahar2132005@gmail.com
-  email_password: hqogulqyjyabrhbg
+  # email: sahar2132005@gmail.com
+  # email_password: hqogulqyjyabrhbg
+  email: sahar21325@gmail.com
+  email_password: trqdswkfamjsvwqd
   email_to:
   - 01278225377saharsaid@gmail.com
 

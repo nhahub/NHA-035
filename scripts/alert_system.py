@@ -37,7 +37,7 @@ def check_and_send_alerts(config_path):
         config = load_config(config_path)
         db_conf = config["db"]
         email_conf = config.get("email_settings", {})
-        threshold = config.get("alert_threshold", 10)
+
     except (FileNotFoundError, KeyError) as e:
         logger.critical(
             f"Critical error: Failed to load configuration. Error: {e}", exc_info=True
