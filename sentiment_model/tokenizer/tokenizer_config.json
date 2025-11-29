@@ -39,16 +39,45 @@
       "rstrip": false,
       "single_word": false,
       "special": true
+    },
+    "5": {
+      "content": "[رابط]",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": true,
+      "special": true
+    },
+    "6": {
+      "content": "[بريد]",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": true,
+      "special": true
+    },
+    "7": {
+      "content": "[مستخدم]",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": true,
+      "special": true
     }
   },
-  "clean_up_tokenization_spaces": true,
+  "clean_up_tokenization_spaces": false,
   "cls_token": "[CLS]",
   "do_basic_tokenize": true,
-  "do_lower_case": true,
+  "do_lower_case": false,
   "extra_special_tokens": {},
   "mask_token": "[MASK]",
-  "model_max_length": 1000000000000000019884624838656,
-  "never_split": null,
+  "max_len": 512,
+  "model_max_length": 512,
+  "never_split": [
+    "[بريد]",
+    "[مستخدم]",
+    "[رابط]"
+  ],
   "pad_token": "[PAD]",
   "sep_token": "[SEP]",
   "strip_accents": null,
