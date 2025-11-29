@@ -1,0 +1,190 @@
+﻿district_id,alert_message,num_neg_reviews,threshold,send_status,triggered_at
+1,District 'اتحاد الأغذية والأغذية' in أسيوط has 21 negative review(s).,21,3,no,2025-11-27 20:16:13
+2,District 'جمعية أطفيحي' in أسيوط has 15 negative review(s).,15,3,no,2025-11-27 20:16:13
+3,District 'جمعية السلام للضيافة' in أسيوط has 35 negative review(s).,35,3,no,2025-11-27 20:16:13
+4,District 'مجلس التموين الاجتماعي في البداري' in أسيوط has 23 negative review(s).,23,3,no,2025-11-27 20:16:13
+5,District 'مكتب أمال' in أسيوط has 10 negative review(s).,10,3,no,2025-11-27 20:16:13
+6,District 'مكتب الأعمال الغذائية' in أسيوط has 33 negative review(s).,33,3,no,2025-11-27 20:16:13
+7,District 'مكتب الأمل للمغاربة' in أسيوط has 19 negative review(s).,19,3,no,2025-11-27 20:16:13
+8,District 'مكتب نور' in أسيوط has 26 negative review(s).,26,3,no,2025-11-27 20:16:13
+9,District 'اتحاد الغذاء الصحي' in الإسكندرية has 34 negative review(s).,34,3,no,2025-11-27 20:16:13
+10,District 'اتحاد الغذاء الصحي الإسكندرية' in الإسكندرية has 33 negative review(s).,33,3,no,2025-11-27 20:16:13
+11,District 'الجمعية التعاونية للطعام الصحي' in الإسكندرية has 29 negative review(s).,29,3,no,2025-11-27 20:16:13
+12,District 'الجمعية المصرية للغذاء' in الإسكندرية has 24 negative review(s).,24,3,no,2025-11-27 20:16:13
+13,District 'جمعية أوركيد للتنمية' in الإسكندرية has 33 negative review(s).,33,3,no,2025-11-27 20:16:13
+14,District 'جمعية إطعام الأسكندرية' in الإسكندرية has 32 negative review(s).,32,3,no,2025-11-27 20:16:13
+15,District 'جمعية الغذاء الصحي' in الإسكندرية has 24 negative review(s).,24,3,no,2025-11-27 20:16:13
+16,District 'جمعية مطبخ إسكندرية' in الإسكندرية has 31 negative review(s).,31,3,no,2025-11-27 20:16:13
+17,District 'شركة بيست فودز' in الإسكندرية has 25 negative review(s).,25,3,no,2025-11-27 20:16:13
+18,District 'شركة جيزة للأغذية' in الإسكندرية has 32 negative review(s).,32,3,no,2025-11-27 20:16:13
+19,District 'شركة مكتبة' in الإسكندرية has 38 negative review(s).,38,3,no,2025-11-27 20:16:13
+20,District 'مجلس التعاون الخليجي للتغذية' in الإسكندرية has 43 negative review(s).,43,3,no,2025-11-27 20:16:13
+21,District 'مكتب إطعام إسكندرية' in الإسكندرية has 20 negative review(s).,20,3,no,2025-11-27 20:16:13
+22,District 'مكتب إمداد الأسكندرية' in الإسكندرية has 30 negative review(s).,30,3,no,2025-11-27 20:16:13
+23,District 'مكتب الأغذية المتكاملة' in الإسكندرية has 41 negative review(s).,41,3,no,2025-11-27 20:16:13
+24,District 'مكتب التعاون الغذائي' in الإسكندرية has 56 negative review(s).,56,3,no,2025-11-27 20:16:13
+25,District 'مكتب التموين السعيد' in الإسكندرية has 34 negative review(s).,34,3,no,2025-11-27 20:16:13
+26,District 'مكتب الخير' in الإسكندرية has 27 negative review(s).,27,3,no,2025-11-27 20:16:13
+27,District 'مكتب الخير للإمداد' in الإسكندرية has 33 negative review(s).,33,3,no,2025-11-27 20:16:13
+28,District 'مكتب الطعام الخيري' in الإسكندرية has 38 negative review(s).,38,3,no,2025-11-27 20:16:13
+29,District 'مكتب الطعام الصحي' in الإسكندرية has 59 negative review(s).,59,3,no,2025-11-27 20:16:13
+30,District 'مكتب جنة التغذية' in الإسكندرية has 46 negative review(s).,46,3,no,2025-11-27 20:16:13
+31,District 'مكتب الأغذية المتكاملة' in الإسماعيلية has 36 negative review(s).,36,3,no,2025-11-27 20:16:13
+32,District 'مكتب الأمل' in الإسماعيلية has 27 negative review(s).,27,3,no,2025-11-27 20:16:13
+33,District 'مكتب التموين الخير' in الإسماعيلية has 25 negative review(s).,25,3,no,2025-11-27 20:16:13
+34,District 'مكتب الجزيرة' in الإسماعيلية has 20 negative review(s).,20,3,no,2025-11-27 20:16:13
+35,District 'مكتب النهضة' in الإسماعيلية has 35 negative review(s).,35,3,no,2025-11-27 20:16:13
+36,District 'اتحاد التموين البحري في المحافظة' in البحيرة has 38 negative review(s).,38,3,no,2025-11-27 20:16:13
+37,District 'الجمعية المصرية لتغذية الأسرة' in البحيرة has 33 negative review(s).,33,3,no,2025-11-27 20:16:13
+38,District 'المبادرة الغذائية' in البحيرة has 29 negative review(s).,29,3,no,2025-11-27 20:16:13
+39,District 'جمعية إطعام المجتمع' in البحيرة has 23 negative review(s).,23,3,no,2025-11-27 20:16:13
+40,District 'جمعية التعاون الغذائي' in البحيرة has 30 negative review(s).,30,3,no,2025-11-27 20:16:13
+41,District 'جمعية بركة التغذية' in البحيرة has 24 negative review(s).,24,3,no,2025-11-27 20:16:13
+42,District 'جمعية بركة التموين مكتب البركة للتوريدات' in البحيرة has 29 negative review(s).,29,3,no,2025-11-27 20:16:13
+43,District 'جمعية بيسترو للطعام' in البحيرة has 26 negative review(s).,26,3,no,2025-11-27 20:16:13
+44,District 'جمعية سندس للمطابخ' in البحيرة has 28 negative review(s).,28,3,no,2025-11-27 20:16:13
+45,District 'جمعية غذاء البركة' in البحيرة has 31 negative review(s).,31,3,no,2025-11-27 20:16:13
+46,District 'جمعية مطبخ البركة' in البحيرة has 33 negative review(s).,33,3,no,2025-11-27 20:16:13
+47,District 'مكتب الأغذية الصحية' in البحيرة has 32 negative review(s).,32,3,no,2025-11-27 20:16:13
+48,District 'مكتب التغذية' in البحيرة has 31 negative review(s).,31,3,no,2025-11-27 20:16:13
+49,District 'مكتب الرابطة الغذائية' in البحيرة has 34 negative review(s).,34,3,no,2025-11-27 20:16:13
+50,District 'مكتب الطعام الخير' in البحيرة has 34 negative review(s).,34,3,no,2025-11-27 20:16:13
+51,District 'مكتب غذاء البحيرة' in البحيرة has 42 negative review(s).,42,3,no,2025-11-27 20:16:13
+52,District 'اتحاد مطبخ الحياة' in الجيزة has 27 negative review(s).,27,3,no,2025-11-27 20:16:13
+53,District 'الجمعية التعاونية للتمور' in الجيزة has 27 negative review(s).,27,3,no,2025-11-27 20:16:13
+54,District 'جمعية البيت السعيد' in الجيزة has 46 negative review(s).,46,3,no,2025-11-27 20:16:13
+55,District 'جمعية التموين السعيد بالجيزة' in الجيزة has 35 negative review(s).,35,3,no,2025-11-27 20:16:13
+56,District 'جمعية طيبة للضيافة' in الجيزة has 33 negative review(s).,33,3,no,2025-11-27 20:16:13
+57,District 'مكتب أطلال' in الجيزة has 23 negative review(s).,23,3,no,2025-11-27 20:16:13
+58,District 'مكتب التموين' in الجيزة has 45 negative review(s).,45,3,no,2025-11-27 20:16:13
+59,District 'مكتب الرابطة' in الجيزة has 13 negative review(s).,13,3,no,2025-11-27 20:16:13
+60,District 'مكتب الطعام الصحي مكتب الغذاء الجيد' in الجيزة has 19 negative review(s).,19,3,no,2025-11-27 20:16:13
+61,District 'مكتب خير زمان' in الجيزة has 31 negative review(s).,31,3,no,2025-11-27 20:16:13
+62,District 'مكتب زهراء' in الجيزة has 33 negative review(s).,33,3,no,2025-11-27 20:16:13
+63,District 'مكتب سناء للتجارة' in الجيزة has 33 negative review(s).,33,3,no,2025-11-27 20:16:13
+64,District 'مكتب سند التموين' in الجيزة has 74 negative review(s).,74,3,no,2025-11-27 20:16:13
+65,District 'مكتب لوجيستيات التموين' in الجيزة has 19 negative review(s).,19,3,no,2025-11-27 20:16:13
+66,District 'جمعية براعم الخير' in الدقهلية has 16 negative review(s).,16,3,no,2025-11-27 20:16:13
+67,District 'جمعية دقهليه لتغليف الطعام' in الدقهلية has 35 negative review(s).,35,3,no,2025-11-27 20:16:13
+68,District 'جمعية مطبخ المنصورة' in الدقهلية has 34 negative review(s).,34,3,no,2025-11-27 20:16:13
+69,District 'مؤسسة التغذية المتكاملة للدقهلية' in الدقهلية has 25 negative review(s).,25,3,no,2025-11-27 20:16:13
+70,District 'مكتب الأغذية الصحية' in الدقهلية has 7 negative review(s).,7,3,no,2025-11-27 20:16:13
+71,District 'مكتب الأغذية المتكاملة' in الدقهلية has 22 negative review(s).,22,3,no,2025-11-27 20:16:13
+72,District 'مكتب التعاون الغذائي بالدقهلية' in الدقهلية has 11 negative review(s).,11,3,no,2025-11-27 20:16:13
+73,District 'مكتب التغذية الصحية' in الدقهلية has 23 negative review(s).,23,3,no,2025-11-27 20:16:13
+74,District 'مكتب التموين' in الدقهلية has 31 negative review(s).,31,3,no,2025-11-27 20:16:13
+75,District 'مكتب الخير' in الدقهلية has 32 negative review(s).,32,3,no,2025-11-27 20:16:13
+76,District 'مكتب السعادة' in الدقهلية has 6 negative review(s).,6,3,no,2025-11-27 20:16:13
+77,District 'مكتب السلام للتوريدات الغذائية' in الدقهلية has 25 negative review(s).,25,3,no,2025-11-27 20:16:13
+78,District 'مكتب الغذاء' in الدقهلية has 30 negative review(s).,30,3,no,2025-11-27 20:16:13
+79,District 'مكتب النجاح' in الدقهلية has 29 negative review(s).,29,3,no,2025-11-27 20:16:13
+80,District 'مكتب زهراء' in الدقهلية has 25 negative review(s).,25,3,no,2025-11-27 20:16:13
+81,District 'مكتب سندس للتغذية' in الدقهلية has 31 negative review(s).,31,3,no,2025-11-27 20:16:13
+82,District 'مكتب غذاء المحافظة' in الدقهلية has 27 negative review(s).,27,3,no,2025-11-27 20:16:13
+83,District 'الجمعية التعاونية لإنتاج الأغذية' in السويس has 24 negative review(s).,24,3,no,2025-11-27 20:16:13
+84,District 'جمعية الحياة' in السويس has 33 negative review(s).,33,3,no,2025-11-27 20:16:13
+85,District 'جمعية الشروق' in السويس has 29 negative review(s).,29,3,no,2025-11-27 20:16:13
+86,District 'جمعية الواحة للتغذية' in السويس has 36 negative review(s).,36,3,no,2025-11-27 20:16:13
+87,District 'جمعية خيركم للغذاء' in السويس has 39 negative review(s).,39,3,no,2025-11-27 20:16:13
+88,District 'جمعية غذاء الحياة' in السويس has 21 negative review(s).,21,3,no,2025-11-27 20:16:13
+89,District 'مكتب التغذية' in السويس has 24 negative review(s).,24,3,no,2025-11-27 20:16:13
+90,District 'مكتب التغذية المثالية' in السويس has 18 negative review(s).,18,3,no,2025-11-27 20:16:13
+91,District 'مكتب سمسمة للتوريد' in السويس has 49 negative review(s).,49,3,no,2025-11-27 20:16:13
+92,District 'مكتبة التغذية' in السويس has 19 negative review(s).,19,3,no,2025-11-27 20:16:13
+93,District 'الجمعية التعاونية للتوريدات الغذائية' in الشرقية has 32 negative review(s).,32,3,no,2025-11-27 20:16:13
+94,District 'مجلس الشروق للغذاء' in الشرقية has 29 negative review(s).,29,3,no,2025-11-27 20:16:13
+95,District 'مكتب التعاون الغذائي' in الشرقية has 55 negative review(s).,55,3,no,2025-11-27 20:16:13
+96,District 'مكتب التغذية الصحية' in الشرقية has 32 negative review(s).,32,3,no,2025-11-27 20:16:13
+97,District 'مكتب التموين' in الشرقية has 53 negative review(s).,53,3,no,2025-11-27 20:16:13
+98,District 'مكتب السعادة للتوريد' in الشرقية has 38 negative review(s).,38,3,no,2025-11-27 20:16:13
+99,District 'مكتب الشروق للطعام' in الشرقية has 25 negative review(s).,25,3,no,2025-11-27 20:16:13
+100,District 'مكتب نور المتحدة للتموين' in الشرقية has 34 negative review(s).,34,3,no,2025-11-27 20:16:13
+101,District 'المكتب المصري لتوريد الأغذية' in الغربية has 42 negative review(s).,42,3,no,2025-11-27 20:16:13
+102,District 'مكتب إمداد الغربية' in الغربية has 20 negative review(s).,20,3,no,2025-11-27 20:16:13
+103,District 'مكتب الأغذية الصحي' in الغربية has 20 negative review(s).,20,3,no,2025-11-27 20:16:13
+104,District 'مكتب التموين السعيد' in الفيوم has 30 negative review(s).,30,3,no,2025-11-27 20:16:13
+105,District 'الجمعية المصرية لتغليف الطعام' in القاهرة has 22 negative review(s).,22,3,no,2025-11-27 20:16:13
+106,District 'جمعية الأعمال الغذائية' in القاهرة has 32 negative review(s).,32,3,no,2025-11-27 20:16:13
+107,District 'جمعية البيت الحلو' in القاهرة has 21 negative review(s).,21,3,no,2025-11-27 20:16:13
+108,District 'جمعية الحياة' in القاهرة has 26 negative review(s).,26,3,no,2025-11-27 20:16:13
+109,District 'جمعية الشروق للتموين' in القاهرة has 31 negative review(s).,31,3,no,2025-11-27 20:16:13
+110,District 'جمعية الغذاء الصحي' in القاهرة has 51 negative review(s).,51,3,no,2025-11-27 20:16:13
+111,District 'جمعية حياه طيبة' in القاهرة has 45 negative review(s).,45,3,no,2025-11-27 20:16:13
+112,District 'مؤسسة إمداد' in القاهرة has 18 negative review(s).,18,3,no,2025-11-27 20:16:13
+113,District 'مؤسسة الطعام الصحي' in القاهرة has 26 negative review(s).,26,3,no,2025-11-27 20:16:13
+114,District 'مؤسسة الغذاء الصحي بالقاهرة' in القاهرة has 34 negative review(s).,34,3,no,2025-11-27 20:16:13
+115,District 'مؤسسة هناء للضيافة' in القاهرة has 15 negative review(s).,15,3,no,2025-11-27 20:16:13
+116,District 'مجلس التعاون الخليجي للوجبات السريعة' in القاهرة has 35 negative review(s).,35,3,no,2025-11-27 20:16:13
+117,District 'مركز الطعام الصحي' in القاهرة has 37 negative review(s).,37,3,no,2025-11-27 20:16:13
+118,District 'مكتب الشروق للتوريدات الغذائية' in القاهرة has 47 negative review(s).,47,3,no,2025-11-27 20:16:13
+119,District 'مكتب الشروق للغذاء' in القاهرة has 29 negative review(s).,29,3,no,2025-11-27 20:16:13
+120,District 'مكتب الطعام الصحي' in القاهرة has 44 negative review(s).,44,3,no,2025-11-27 20:16:13
+121,District 'مكتب المدينة للغذاء' in القاهرة has 38 negative review(s).,38,3,no,2025-11-27 20:16:13
+122,District 'مكتب جمعية نور' in القاهرة has 39 negative review(s).,39,3,no,2025-11-27 20:16:13
+123,District 'مكتب سحور رمضان' in القاهرة has 36 negative review(s).,36,3,no,2025-11-27 20:16:13
+124,District 'مكتب غذاء' in القاهرة has 35 negative review(s).,35,3,no,2025-11-27 20:16:13
+125,District 'مكتب هناء للتغذية' in القاهرة has 61 negative review(s).,61,3,no,2025-11-27 20:16:13
+126,District 'جمعية السندس' in القليوبية has 45 negative review(s).,45,3,no,2025-11-27 20:16:13
+127,District 'شركة التوفيق للتوريدات الغذائية' in القليوبية has 25 negative review(s).,25,3,no,2025-11-27 20:16:13
+128,District 'مؤسسة طيبة للأغذية' in القليوبية has 40 negative review(s).,40,3,no,2025-11-27 20:16:13
+129,District 'مكتب إطعام القليوبية' in القليوبية has 25 negative review(s).,25,3,no,2025-11-27 20:16:13
+130,District 'المكتبة الثقافية' in المنوفية has 59 negative review(s).,59,3,no,2025-11-27 20:16:13
+131,District 'جمعية طيبة للأغذية' in المنوفية has 32 negative review(s).,32,3,no,2025-11-27 20:16:13
+132,District 'جمعية غذاء الحياة' in المنوفية has 32 negative review(s).,32,3,no,2025-11-27 20:16:13
+133,District 'مكتب التعاون الغذائي بالمنوفية' in المنوفية has 44 negative review(s).,44,3,no,2025-11-27 20:16:13
+134,District 'مكتب الرابطة التعاونية لتنمية الريف' in المنوفية has 18 negative review(s).,18,3,no,2025-11-27 20:16:13
+135,District 'الجمعية المصرية لخدمات التموين' in المنيا has 19 negative review(s).,19,3,no,2025-11-27 20:16:13
+136,District 'جمعية نوران للتموين' in المنيا has 43 negative review(s).,43,3,no,2025-11-27 20:16:13
+137,District 'مكتب نور الحياة' in المنيا has 38 negative review(s).,38,3,no,2025-11-27 20:16:13
+138,District 'الجمعية التعاونية للغذاء' in بني سويف has 15 negative review(s).,15,3,no,2025-11-27 20:16:13
+139,District 'جمعية سند الخير' in بني سويف has 32 negative review(s).,32,3,no,2025-11-27 20:16:13
+140,District 'مكتب التغذية المستدامة' in بني سويف has 22 negative review(s).,22,3,no,2025-11-27 20:16:13
+141,District 'مكتب الرابطة' in بني سويف has 32 negative review(s).,32,3,no,2025-11-27 20:16:13
+142,District 'مكتب نور بنى سويف' in بني سويف has 44 negative review(s).,44,3,no,2025-11-27 20:16:13
+143,District 'جمعية مطبخ الحياة' in بورسعيد has 31 negative review(s).,31,3,no,2025-11-27 20:16:13
+144,District 'مؤسسة الغذاء الصحي' in بورسعيد has 23 negative review(s).,23,3,no,2025-11-27 20:16:13
+145,District 'مؤسسة طعام البوابة الجديدة' in بورسعيد has 31 negative review(s).,31,3,no,2025-11-27 20:16:13
+146,District 'مجلس الأزرقي' in بورسعيد has 38 negative review(s).,38,3,no,2025-11-27 20:16:13
+147,District 'مكتب التموين' in بورسعيد has 27 negative review(s).,27,3,no,2025-11-27 20:16:13
+148,District 'مكتب السعادة' in بورسعيد has 36 negative review(s).,36,3,no,2025-11-27 20:16:13
+149,District 'مكتب زهراء التموين' in بورسعيد has 29 negative review(s).,29,3,no,2025-11-27 20:16:13
+150,District 'جمعية طيبة للإطعام' in دمياط has 45 negative review(s).,45,3,no,2025-11-27 20:16:13
+151,District 'مكتب التموين' in دمياط has 41 negative review(s).,41,3,no,2025-11-27 20:16:13
+152,District 'مكتب التموين الحضري' in دمياط has 30 negative review(s).,30,3,no,2025-11-27 20:16:13
+153,District 'مكتب التموين الدائم' in دمياط has 47 negative review(s).,47,3,no,2025-11-27 20:16:13
+154,District 'مكتب الطيبات' in دمياط has 32 negative review(s).,32,3,no,2025-11-27 20:16:13
+155,District 'الجمعية التعاونية لتوريد الأغذية' in سوهاج has 29 negative review(s).,29,3,no,2025-11-27 20:16:13
+156,District 'جمعية طيبة للإطعام' in سوهاج has 17 negative review(s).,17,3,no,2025-11-27 20:16:13
+157,District 'جمعية غذاء' in سوهاج has 24 negative review(s).,24,3,no,2025-11-27 20:16:13
+158,District 'شركة طه للتنمية المستدامة' in سوهاج has 47 negative review(s).,47,3,no,2025-11-27 20:16:13
+159,District 'مؤسسة بيورل للطعام' in سوهاج has 20 negative review(s).,20,3,no,2025-11-27 20:16:13
+160,District 'مركز طهطا للتغذية' in سوهاج has 56 negative review(s).,56,3,no,2025-11-27 20:16:13
+161,District 'مكتب جمعية التغذية الصحية' in سوهاج has 25 negative review(s).,25,3,no,2025-11-27 20:16:13
+162,District 'مكتب نوران للتغذية' in سوهاج has 26 negative review(s).,26,3,no,2025-11-27 20:16:13
+163,District 'جمعية إطعام' in قنا has 15 negative review(s).,15,3,no,2025-11-27 20:16:13
+164,District 'جمعية مركز الخير' in قنا has 31 negative review(s).,31,3,no,2025-11-27 20:16:13
+165,District 'مجلس التنمية المستدامة للجمعية' in كفر الشيخ has 15 negative review(s).,15,3,no,2025-11-27 20:16:13
+166,District 'مكتب التموين' in كفر الشيخ has 29 negative review(s).,29,3,no,2025-11-27 20:16:13
+167,District 'مكتب بلسم البركة' in كفر الشيخ has 30 negative review(s).,30,3,no,2025-11-27 20:16:13
+168,District 'مكتب نور الخير' in كفر الشيخ has 48 negative review(s).,48,3,no,2025-11-27 20:16:13
+169,District 'جمعية ساقية الساحل' in مطروح has 13 negative review(s).,13,3,no,2025-11-27 20:16:13
+170,District 'جمعية سواعد مطروح' in مطروح has 30 negative review(s).,30,3,no,2025-11-27 20:16:13
+171,District 'مجلس التعاون الخليجي لخدمات التموين' in مطروح has 25 negative review(s).,25,3,no,2025-11-27 20:16:13
+172,District 'مكتب الأغذية الصحي لمطروح' in مطروح has 32 negative review(s).,32,3,no,2025-11-27 20:16:13
+173,District 'مكتب السواني' in مطروح has 30 negative review(s).,30,3,no,2025-11-27 20:16:13
+174,District 'مكتب زهران للضيافة' in مطروح has 23 negative review(s).,23,3,no,2025-11-27 20:16:13
+1039,District 'مكتب الطعام الخيري' in أسيوط has 32 negative review(s).,32,3,no,2025-11-27 22:06:08
+1040,District 'مكتب الرابطة' in الإسكندرية has 40 negative review(s).,40,3,no,2025-11-27 21:44:13
+1041,District 'مكتب سمير للتموين' in الجيزة has 31 negative review(s).,31,3,no,2025-11-28 01:36:12
+1042,District 'جمعية الواحة' in السويس has 19 negative review(s).,19,3,no,2025-11-28 01:36:12
+1043,District 'مكتب الحياة' in السويس has 20 negative review(s).,20,3,no,2025-11-27 22:06:08
+1044,District 'الجمعية المصرية للغذاء' in القاهرة has 40 negative review(s).,40,3,no,2025-11-27 21:44:13
+1045,District 'جمعية مطبخ التحرير' in القاهرة has 17 negative review(s).,17,3,no,2025-11-27 22:02:36
+1046,District 'مؤسسة التعاون الغذائي' in القاهرة has 27 negative review(s).,27,3,no,2025-11-27 22:02:36
+1047,District 'مجلس التعاون الخليجي للغذاء' in القاهرة has 32 negative review(s).,32,3,no,2025-11-27 22:06:08
+1048,District 'مكتب التموين' in القاهرة has 28 negative review(s).,28,3,no,2025-11-27 22:06:08
+1049,District 'مؤسسة دوز' in القليوبية has 29 negative review(s).,29,3,no,2025-11-27 22:02:36
+1050,District 'مكتب الطعام الصحي' in قنا has 36 negative review(s).,36,3,no,2025-11-27 22:02:36
+1051,District 'شركة مروة للطعام' in مطروح has 25 negative review(s).,25,3,no,2025-11-28 01:35:14
+1215,District 'مكتب خيرنا' in الإسماعيلية has 10 negative review(s).,10,3,no,2025-11-28 01:35:14
+1216,District 'اتحاد بركة السمك الأبيض' in البحيرة has 23 negative review(s).,23,3,no,2025-11-28 01:35:14
